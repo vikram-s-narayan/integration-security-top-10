@@ -42,11 +42,6 @@ ISF exists to fix this gap: short, memorable, and actionable.
 10. **Opaque Auditability**  
     Ensure logs cover integration events and are exportable + tamper-evident.
 
----
-
-## 🔗 Mappings to Existing Frameworks
-ISF is **complementary** to existing standards. Each Top 10 item maps to NIST CSF, CIS Controls, and ISO 27001.  
-👉 [See full mapping here](docs/ISF-Mappings.md)
 
 ---
 
