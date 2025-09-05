@@ -8,7 +8,7 @@ The **Integration Security Top 10 (ISF)** is an open-source framework for securi
 Modern enterprises run on integrations — Salesforce ↔ Slack, Google Workspace ↔ ServiceNow, Epic ↔ cloud storage. But as the [2025 Salesloft–Drift incident showed]([url](https://socradar.io/salesloft-drift-breach-everything-you-need-to-know/)), a single weak integration can cascade into **hundreds of downstream breaches**.  
 ISF exists to fix this gap: short, memorable, and actionable.
 
-For more context, please see the [LinkedIn post]([url](https://www.linkedin.com/pulse/launch-integration-security-top-10-isf-vikramaditya-narayan-xraic/?trackingId=DIGDjEjZRaGWCGGZFlZdpw%3D%3D)).
+For more context, please see the [LinkedIn post]([url](https://www.linkedin.com/pulse/launch-integration-security-top-10-isf-vikramaditya-narayan-xraic)).
 
 ---
 
