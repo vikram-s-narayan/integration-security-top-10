@@ -1,4 +1,4 @@
-# 🔐 Integration Security Top 10 (ISF)
+# 🔐 Integration Security Framework Top 10 (ISF Top 10)
 
 The **Integration Security Top 10 (ISF)** is an open-source framework for securing **OAuth, API, and SaaS-to-SaaS integrations**. Inspired by the OWASP Top 10, it highlights the **most critical risks** and provides **practical guardrails** to reduce the blast radius of integration compromises.
 
